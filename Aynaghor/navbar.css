@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+    margin-right: 19px;
+
+    
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: black;
+    margin-top: 0px;
+    height: 30px;
+}
+.nav a{
+    text-decoration: none;
+    color: beige;
+}

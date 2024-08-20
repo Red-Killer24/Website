@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 .mainpost {
     /* border: 2px solid gray; */
     border-radius: 12px;
