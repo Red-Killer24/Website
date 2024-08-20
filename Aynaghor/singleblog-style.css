@@ -1,16 +1,21 @@
-.mainpost{
+.mainpost {
     /* border: 2px solid gray; */
     border-radius: 12px;
     margin: 10px;
-    margin-top:  10px ;
+    margin-top: 10px;
     padding: 15px;
     max-width: 66.666667%;
     font-size: 20px;
 }
-.image{
+
+.image {
     margin-left: 20px;
-    
+
 }
-.image img{
+
+.image img {
     border-radius: 15px;
+}
+.para-no{
+    font-size: 70px;
 }
